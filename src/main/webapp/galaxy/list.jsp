@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>hello galaxy</h1>
+	<h1>galaxy</h1>
 </body>
 </html>
